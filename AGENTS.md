@@ -5,7 +5,7 @@
 
 ## 명령
 - 목록: node cli.js list
-- 추가: node clli.js add "<내용>"
+- 추가: node cli.js add "<내용>"
 - 완료: node cli.js done <번호>
 - 오늘 완료 요약: node cli.js summary
 
