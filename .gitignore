@@ -1,0 +1,6 @@
+node_modules/
+# 실제 할 일 데이터 (로컬 전용)
+todo.db
+todo.db-journal
+todo.db-wal
+todo.db-shm

@@ -1,0 +1,17 @@
+{
+  "name": "todo-sqlite-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "로컬 todo.db(SQLite)에 할 일을 저장하는 작은 예제 웹 앱",
+  "main": "todo-store.js",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "todo": "node cli.js"
+  },
+  "bin": {
+    "todo": "cli.js"
+  }
+}
